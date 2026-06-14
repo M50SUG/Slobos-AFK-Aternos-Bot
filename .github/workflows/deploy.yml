@@ -21,4 +21,4 @@ jobs:
           git remote add hf https://huggingface.co
           git config --global user.email "bot@github.com"
           git config --global user.name "GitHub Action"
-          git push --force https://Casses:$HF_TOKEN@huggingface.co/spaces/Casses/Riddle main
+          git push --force https://Casses:$HF_TOKEN@huggingface.co/spaces/casses1122/riddle main
