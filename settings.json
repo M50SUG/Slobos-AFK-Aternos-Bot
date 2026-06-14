@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "M50UG.aternos.me",
-    "port": 34059,
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
