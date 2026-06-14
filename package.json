@@ -1,18 +1,16 @@
 {
-  "name": "minecraft-afk-bot",
-  "version": "2.2",
-  "description": "Robust AFK bot for Minecraft servers with infinite uptime.",
+  "name": "slobos-afk-aternos-bot",
+  "version": "1.0.0",
+  "description": "AFK bot for Aternos Minecraft server",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "node --check index.js"
+    "start": "node index.js"
   },
-  "author": "Lamgerr",
-  "license": "MIT",
   "dependencies": {
-    "express": "^4.18.1",
-    "minecraft-data": "^3.103.0",
-        "mineflayer": "latest"
-    "mineflayer-pathfinder": "^2.1.1"
-  }
+    "express": "latest",
+    "mineflayer": "latest",
+    "mineflayer-pathfinder": "latest"
+  },
+  "author": "",
+  "license": "ISC"
 }
