@@ -2,5 +2,7 @@
   "ip": "M505UG.aternos.me",
   "port": 25565,
   "name": "SlobosAFK",
-  "version": "1.21"
+  "version": "1.21",
+  "auto-reconnect-delay": 10000,
+  "reconnect-attempts": 999
 }
